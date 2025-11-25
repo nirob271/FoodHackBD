@@ -1,0 +1,29 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio related files
+.vs/
+*.user
+*.suo
+*.rsuser
+*.vscode/
+
+# Ignore Debug/Release folders
+**/Debug/
+**/Release/
+
+# Ignore local database files
+*.db
+*.mdf
+*.ldf
+
+# Ignore temporary/cache files
+*.cache
+*.log
+
+# Ignore publish profiles
+*.pubxml
+
+# Ignore IIS settings
+.vsconfig
